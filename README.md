@@ -6,10 +6,13 @@ SGBD : SurrealDB
 Nécessaires (installations ci-dessous) :
 Git :
 https://git-scm.com/download/win avec la version adaptée
+
 Node.js : 
 https://nodejs.org/en/download Windows Installer MSI avec version adaptée (Ne pas désactiver l’installation de NPM) 
+
 SurrealDB :
 Ouvrir powershell:
+
 Rentrer la commande :
 “ iwr https://windows.surrealdb.com -useb | iex “
 
