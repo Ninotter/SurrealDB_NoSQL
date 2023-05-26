@@ -5,7 +5,7 @@ Nécessaires (installations ci-dessous) :
 Git :
 https://git-scm.com/download/win avec la version adaptée
 
-Node.js : 
+Node.js v18.16:  : 
 https://nodejs.org/en/download Windows Installer MSI avec version adaptée (Ne pas désactiver l’installation de NPM) 
 
 SurrealDB :
