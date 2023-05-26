@@ -1,5 +1,3 @@
-DIDIER Nino
-
 Système d’exploitation : Windows 10
 SGBD : SurrealDB
 
