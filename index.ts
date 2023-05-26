@@ -60,6 +60,7 @@ app.delete("/delete/:id", async (req, res) => {
         await db.delete(id);
         res.send("done");
     } catch (err) {
+        res.status(500).send("error");
         console.log(err);
     }
 });
